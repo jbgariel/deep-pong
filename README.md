@@ -1,7 +1,0 @@
-# deep-pong
-
-## Hardware
-
-
-
-
