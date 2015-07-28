@@ -1,3 +1,7 @@
 # deep-pong
 
-test
+## Hardware
+
+
+
+
